@@ -55,7 +55,7 @@ Enterprise-grade financial intelligence and portfolio management platform built 
 
 **Tech Stack**
 
-* Java 21
+* Java 21                  
 * Spring Boot
 * PostgreSQL
 * Kafka
@@ -87,12 +87,6 @@ https://github.com/TaridaG/Toyota-32Bit-Finance-Platform
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TaridaG&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaridaG&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TaridaG&theme=github-dark-blue&hide_border=true" />
 </p>
 
@@ -102,14 +96,6 @@ https://github.com/TaridaG/Toyota-32Bit-Finance-Platform
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TaridaG&theme=github-compact&days=150" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=TaridaG&theme=algolia&no-frame=true&row=1&column=7" />
 </p>
 
 ---
